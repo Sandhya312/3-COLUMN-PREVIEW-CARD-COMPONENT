@@ -1,0 +1,121 @@
+[
+  {
+    "competitionCurationStatus": "CURATED",
+    "createdDate": {
+      "hours": 13,
+      "seconds": 21,
+      "month": 1,
+      "year": 2017,
+      "minutes": 43,
+      "day": 3
+    },
+    "statusUpdatedDate": {
+      "year": 2021,
+      "month": 12,
+      "day": 31
+    },
+    "tracxnInvestmentScore": {
+      "overall": 52.327935774100006
+    },
+    "tracxnScore": {
+      "overall": 85.9251771771372
+    },
+    "latestRevenue": {
+      "baseCurrency": "INR",
+      "amount": {
+        "USD": { "value": 150469829.08 }
+      }
+    },
+    "socialMediaProfiles": {
+      "x": "https://twitter.com/cultfitofficial",
+      "linkedin": "https://linkedin.com/company/cult.fit",
+      "facebook": "https://facebook.com/wearecultofficial"
+    },
+    "investors": [
+      {
+        "id": "52c1135be4b0687d76705031",
+        "type": "COMPANY",
+        "name": "Accel"
+      }
+    ],
+    "totalEquityFunding": {
+      "amount": { "USD": { "value": 666608046 } }
+    },
+    "contact": {
+      "addresses": [
+        {
+          "pinCode": "600028",
+          "location": { "country": { "name": "India" } },
+          "addressText": "NEW NO.10, OLD NO.28, SHANKARALAYA, 3RD CROSS STREET RK NAGAR, RA PURAM, Raja Annamalaipuram, Chennai, Tamil Nadu, India, 600028",
+          "isRegisteredAddress": "Yes"
+        },
+        {
+          "pinCode": "560102",
+          "location": { "country": { "name": "India" } },
+          "addressText": "No. 17 & 17C BDA, Sector 3, HSR Layout, Bangalore, Karnataka, India, 560102",
+          "isRegisteredAddress": "Yes"
+        }
+      ],
+      "emails": ["hello@cult.fit"]
+    },
+    "website": [
+      {
+        "status": 200,
+        "url": "https://www.cult.fit/",
+        "isPrimary": "Yes"
+      }
+    ],
+    "partOf": {
+      "id": "577e2d1ee4b02b0fc0f2d00d",
+      "name": "cure.fit"
+    },
+    "shortDescription": "Provider of fitness memberships encompassing group classes, gyms, and at-home workouts",
+    "foundedYear": 2016,
+    "logo": "https://s3.amazonaws.com/tracxn-data-image/logo/company/OK1u7KJe_400x400.jpg",
+    "name": "Cult.fit",
+    "id": "586bbd63e4b03071e22a89af",
+    "funded": "Yes",
+    "achievements": [{ "category": "Size", "name": "XCorn" }],
+    "domain": "cult.fit",
+    "status": "PUBLISHED",
+    "stage": "Series F"
+  },
+  {
+    "competitionCurationStatus": "CURATED",
+    "createdDate": { "hours": 10, "seconds": 0, "month": 5, "year": 2020, "minutes": 30, "day": 15 },
+    "tracxnScore": { "overall": 72.5 },
+    "socialMediaProfiles": {
+      "x": "https://twitter.com/exampleco",
+      "linkedin": "https://linkedin.com/company/exampleco"
+    },
+    "investors": [
+      { "id": "abc123", "type": "COMPANY", "name": "Sample VC" }
+    ],
+    "totalEquityFunding": { "amount": { "USD": { "value": 50000000 } } },
+    "contact": {
+      "addresses": [
+        {
+          "pinCode": "10001",
+          "location": { "country": { "name": "USA" } },
+          "addressText": "123 Main St, New York, NY 10001",
+          "isRegisteredAddress": "Yes"
+        }
+      ],
+      "emails": ["info@example.com"]
+    },
+    "website": [
+      { "status": 200, "url": "https://www.example.com/", "isPrimary": "Yes" }
+    ],
+    "partOf": { "id": "def456", "name": "Example Group" },
+    "shortDescription": "A sample technology company for testing purposes",
+    "foundedYear": 2020,
+    "logo": "https://example.com/logo.png",
+    "name": "ExampleCo",
+    "id": "abc123def456",
+    "funded": "Yes",
+    "domain": "example.com",
+    "status": "PUBLISHED",
+    "stage": "Series A",
+    "latestValuation": { "amount": { "USD": { "value": 200000000 } } }
+  }
+]
