@@ -1,0 +1,91 @@
+[
+  {
+    "socialMediaProfiles": {
+      "x": "https://twitter.com/cultfitofficial",
+      "linkedin": "https://linkedin.com/company/cult.fit",
+      "facebook": "https://facebook.com/wearecultofficial"
+    },
+    "contact": {
+      "addresses": [
+        {
+          "pinCode": "600028",
+          "location": {
+            "country": {
+              "name": "India"
+            }
+          },
+          "addressText": "NEW NO.10, OLD NO.28, SHANKARALAYA, 3RD CROSS STREET RK NAGAR, RA PURAM, Raja Annamalaipuram, Chennai, Tamil Nadu, India, 600028",
+          "isRegisteredAddress": "Yes"
+        },
+        {
+          "pinCode": "560102",
+          "location": {
+            "country": {
+              "name": "India"
+            }
+          },
+          "addressText": "No. 17 & 17C BDA, Sector 3, HSR Layout, Bangalore, Karnataka, India, 560102",
+          "isRegisteredAddress": "Yes"
+        }
+      ],
+      "emails": [
+        "hello@cult.fit"
+      ]
+    },
+    "website": [
+      {
+        "status": 200,
+        "url": "https://www.cult.fit/",
+        "isPrimary": "Yes"
+      }
+    ],
+    "partOf": {
+      "id": "577e2d1ee4b02b0fc0f2d00d",
+      "name": "cure.fit"
+    },
+    "foundedYear": 2016,
+    "name": "Cult.fit",
+    "domain": "cult.fit",
+    "shortDescription": "Provider of fitness memberships encompassing group classes, gyms, and at-home workouts",
+    "funded": "Yes"
+  },
+  {
+    "socialMediaProfiles": {
+      "x": "https://twitter.com/exampleco",
+      "linkedin": "https://linkedin.com/company/exampleco"
+    },
+    "contact": {
+      "addresses": [
+        {
+          "pinCode": "10001",
+          "location": {
+            "country": {
+              "name": "USA"
+            }
+          },
+          "addressText": "123 Main St, New York, NY 10001",
+          "isRegisteredAddress": "Yes"
+        }
+      ],
+      "emails": [
+        "info@example.com"
+      ]
+    },
+    "website": [
+      {
+        "status": 200,
+        "url": "https://www.example.com/",
+        "isPrimary": "Yes"
+      }
+    ],
+    "partOf": {
+      "id": "def456",
+      "name": "Example Group"
+    },
+    "foundedYear": 2020,
+    "name": "ExampleCo",
+    "domain": "example.com",
+    "shortDescription": "A sample technology company for testing purposes",
+    "funded": "Yes"
+  }
+]
