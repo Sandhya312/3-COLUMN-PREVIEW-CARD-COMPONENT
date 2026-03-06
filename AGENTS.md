@@ -14,13 +14,23 @@ The site loads Google Fonts via CDN, so internet access is required for correct 
 
 ### JSON filter utility
 
-`filter-json.js` is a Node.js CLI script that strips unwanted keys from an array of JSON objects.
+`filter-json.js` strips unwanted keys from an array of JSON objects.
 
 ```
 node filter-json.js <input.json> [output.json]
 ```
 
 Defaults: input = `raw-data.json`, output = `filtered-data.json`. The kept keys are configured in the `KEYS_TO_KEEP` array at the top of the script.
+
+### JSON-to-CSV converter
+
+`json-to-csv.js` converts filtered JSON data into a flat CSV file. Nested fields (socialMediaProfiles, contact, partOf) are flattened into dot-notation columns. Multiple addresses/emails are joined with ` | `.
+
+```
+node json-to-csv.js <input.json> [output.csv]
+```
+
+Defaults: input = `filtered-data.json`, output = `output.csv`.
 
 ### Lint / Test / Build
 
